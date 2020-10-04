@@ -124,7 +124,7 @@ background-color:#E7E7E7;
 }
 
 #menu-tile{
-	background:url('images/HOME/menu.jpg') no-repeat;
+	background:url('images/HOME/Menu.jpg') no-repeat;
 	background-position:center;
 }
 #special-tile{
@@ -291,7 +291,7 @@ p.menu-item-details{
 	height:50px;width:48px;
 	background-color: #e6e6e6;
     border-radius: 70% ;
-    /*border-radius-top-bottom:70%;*/
+    
 }
 
 .container .fa-github:hover {
@@ -412,17 +412,17 @@ p.menu-item-details{
 {
 	
 
-	.navbar-brand h1{
+   .navbar-brand h1{
        font-size:1.5em;
-	}
+     }
 
-	#collapsable-nav a{
+    #collapsable-nav a{
 		font-size:1.2em;
-	}
+     }
 
-	#collapsable-nav a span{
+    #collapsable-nav a span{
 		font-size:1em;
-	}
+      }
     #call-btn > a{
     	font-size:1.5em;
     	display:block;
@@ -439,22 +439,22 @@ p.menu-item-details{
          text-transform:uppercase;
     }
 
-	.container .jumbotron{
+    .container .jumbotron{
 		margin-top:30px;
 		padding:0;
 		box-shadow:0 0 50px #3F0C1F;
 		border:2px solid #3F0C1F;
-	}
+     }
 
-	.container .photosm{
-		margin-left:8vw;
-  	    margin-top:20px;
-  	    margin-bottom:20px;
-  	    width:283px;
-		padding:0;
-		box-shadow:0 0 50px #3F0C1F;
-		border:5px solid #e6e6e6;
-		border-radius:50%;
+     .container .photosm{
+	margin-left:8vw;
+  	margin-top:20px;
+  	margin-bottom:20px;
+  	width:283px;
+        padding:0;
+	box-shadow:0 0 50px #3F0C1F;
+	border:5px solid #e6e6e6;
+	border-radius:50%;
         overflow: hidden;
         
     }
@@ -467,21 +467,21 @@ p.menu-item-details{
     }
 
 
-	#menu-tile, #special-tile{
+     #menu-tile, #special-tile{
 		width:392px;
 		margin:0 auto 15px;
-	}
+     }
 
-	.menu-item-photo{
+    .menu-item-photo{
 		margin-right:auto;
-	}
+    }
 
-	.menu-item-tile .menu-item-price{
+    .menu-item-tile .menu-item-price{
 		text-align:center;
-	}
-	.menu-item-description{
+    }
+    .menu-item-description{
 		text-align:center;
-	}
+    }
      
     .panel-footer section{
     	margin-bottom: 30px;
@@ -508,12 +508,12 @@ p.menu-item-details{
       font-size:6vw;
     }
 
-	#menu-tile,#special-tile{
-		width:280px;
-        margin:0 auto 15px;
-	}
+    #menu-tile,#special-tile{
+    width:280px;
+    margin:0 auto 15px;
+     }
 
-	.col-xxs-12{
+     .col-xxs-12{
 		position:relative;
 		min-height: 1px;
 		padding-right: 15px;
@@ -531,12 +531,11 @@ p.menu-item-details{
         margin-right:5%;
     }
 
-	.container .xslinks{
-		display:none;
-		
+    .container .xslinks{
+	display:none;
 	}
 
-}1
+}
 
 
 
